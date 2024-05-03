@@ -1,4 +1,8 @@
-# Make Project - Jenny Cho '24 and Tillie Ferguson '23
+# Make Project 
+
+**Collaborators**: Jenny Cho '24, Matilda Ferguson '23
+
+**Course**: CPSC091S Game Systems - Spring 2023 Under the Supervision of Professor Keith O'Hara
 
 Food Fight! is an original game where players try to put their opponent into a food coma by hitting them with the most food elements. 
 
