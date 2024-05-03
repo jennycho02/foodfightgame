@@ -1,4 +1,4 @@
-# Make Project - Jenny Cho and Tillie Ferguson
+# Make Project - Jenny Cho '24 and Tillie Ferguson '23
 
 Food Fight! is an original game where players try to put their opponent into a food coma by hitting them with the most food elements. 
 
@@ -29,13 +29,6 @@ Players can gain an advantage by catching a rainbow apple and becoming a chef. T
 
 <img width="1200" alt="Screen Shot 2023-05-05 at 10 54 56 PM" src="https://github.swarthmore.edu/storage/user/5749/files/87c8bb21-d53e-486b-a0c6-385c08de8933">
 
-## Programming Patterns 
-
-* Game loop: TIC loop that consists of processing game input, updating the state, and rendering the graphics
-* Flyweight: Every instance of player objects contains all information for it
-* State: Make a class for each state with methods handling all possible actions from a state. This one was only partially achieved, because some states are handled in separate code locations. We aimed to encapsulate state as much as possible by storing state in player objects. Ultimately code was simplified from a programming perspective by encapsulating state information within objects and using methods to update them.
-
-
 ## Future Work 
 We'd like to improve this game with some future improvements. We have enumerated some suggestions below.
  ### Graphics
@@ -49,8 +42,4 @@ We'd like to improve this game with some future improvements. We have enumerated
  * Power meter so players can choose how far to throw
  * Obstacles (ex shelves on the wall that food will collide with)
  * Accuracy meter
-
-### Programming Patterns
-* Improve code with more programming patterns
-
 
