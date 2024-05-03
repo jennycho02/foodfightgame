@@ -8,7 +8,8 @@ Food Fight! is an original game where players try to put their opponent into a f
 
 Players navigate a 2-D screen from left to right, pick up fruits, and throw them at the other player. 
 
-<img width="639" alt="Screen Shot 2023-05-05 at 10 54 26 PM" src="https://github.swarthmore.edu/storage/user/5749/files/c45477ce-8bc4-4da6-a89e-c47299e1c1ba">[Graphic elements for the game]
+
+![Graphic elements for the game.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.swarthmore.edu/storage/user/5749/files/c45477ce-8bc4-4da6-a89e-c47299e1c1ba)
 
 <img width="644" alt="Screen Shot 2023-05-05 at 10 54 34 PM" src="https://github.swarthmore.edu/storage/user/5749/files/01a0c92f-ba9d-4676-bce0-886df5e7520e">[Graphic elements for the game]
 
