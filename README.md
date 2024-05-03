@@ -2,7 +2,11 @@
 
 Food Fight! is an original game where players try to put their opponent into a food coma by hitting them with the most food elements. 
 
-<img width="1198" alt="Screen Shot 2023-05-05 at 10 54 48 PM" src="https://github.swarthmore.edu/storage/user/5749/files/14d0c7d1-a9d8-4f59-a5cd-7f936dea60d6">
+![Title screen with game title and instructions on how to play](https://github.swarthmore.edu/storage/user/5749/files/14d0c7d1-a9d8-4f59-a5cd-7f936dea60d6)
+
+## Senior Comprehensive poster presented in Fall 2023 as final major requirement
+
+![CS Final Poster Jenny Cho.jpg](https://github.com/jennycho02/foodfightgame/blob/e34f60a1d38a40e8c36b5f5caee2875583974345/CS%20Final%20Poster%20Jenny%20Cho.jpg)
 
 ## Game Play
 
